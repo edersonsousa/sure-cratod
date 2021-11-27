@@ -1,1 +1,1 @@
-web: gunicorn sure.wsgi
+web: gunicorn app:app
